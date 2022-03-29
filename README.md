@@ -34,6 +34,7 @@ LB-斷絕可移動
 自動戰鬥 全自動戰鬥
 
 死宮天宮 遁地飛天 單人輕鬆登頂
+
 ---------------------------------------------------
 # FF14-hacks-ACT-plugin
 Movement speed (movement speed increased including mounts)         
